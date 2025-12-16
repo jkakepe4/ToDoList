@@ -144,8 +144,6 @@
         overflow-wrap: break-word;
         
     }
-        /* your existing styles ... */
-    
     .scroll-bottom {
         position: fixed;
         bottom: 20px;
@@ -153,16 +151,16 @@
         width: 50px;
         height: 50px;
         border-radius: 50%;
-        background-color: #000000;
+        background-color: #157382;
         color: white;
         border: none;
         font-size: 24px;
         cursor: pointer;
         box-shadow: 0 2px 5px rgba(0,0,0,0.3);
     }
-    
     .scroll-bottom:hover {
-        background-color: #616161;
+        background-color: #a2e5ef;
+        color: #157382;
         transition: 250ms;
     }
 </style>
