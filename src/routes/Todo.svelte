@@ -126,7 +126,7 @@
     input[type="checkbox"] {
         height: 20px;
         width: 20px;
-        accent-color: green;
+        accent-color: rgb(6, 110, 255);
     }
     li span.done {
         text-decoration: line-through;
