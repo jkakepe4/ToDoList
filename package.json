@@ -4,10 +4,8 @@
 	"version": "0.0.1",
 	"type": "module",
 	"scripts": {
-		"dev": "vite dev",
+		"test": "echo \"Error no test specified\" && exit 1",
 		"serve": "npx @11ty/eleventy --serve",
-		"preview": "vite preview",
-		"prepare": "svelte-kit sync || echo ''",
 		"build": "npx @11ty/eleventy"
 	},
 	"devDependencies": {
